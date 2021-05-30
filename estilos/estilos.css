@@ -1,0 +1,27 @@
+body{
+
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-top: 20px;
+  background-color:#DA6A18; 
+}
+
+h2{
+
+    text-align: center;
+    color:#6F061C;
+}
+
+p{
+  color: #6F061C;
+  text-align: unset;
+}
+
+h3{
+color: #6F061C;
+
+}
+
+h4{
+  text-align: center;
+}
